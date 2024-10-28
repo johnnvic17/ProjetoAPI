@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PraticaAPI</string>
+
+    <string name="edit_search_hint">Search movies, series or episodes...</string>
+    
+    <string name="string_released_details">Released: %1$s</string>
+    <string name="string_categories_details">%1$s • %2$s • %3$s • %4$s</string>
+    <string name="string_genre_details">Genre: %1$s</string>
+    <string name="string_creator_details">Creator: %1$s</string>
+    <string name="string_cast_details">Cast: %1$s</string>
+    <string name="string_awards_details">Awards: %1$s</string>
+    <string name="string_title_ratings">Ratings</string>
+    <string name="string_default_metascore">Metascore: N/A</string>
+    <string name="string_metascore_ratings">Metascore: %1$s</string>
+    <string name="string_imdb_title">IMDB Rating</string>
+    <string name="string_imdb_value">%1$s/10</string>
+    <string name="string_title_others_ratings">Others</string>
+
+    <string name="validation_field_string">Invalid value.</string>
+</resources>
